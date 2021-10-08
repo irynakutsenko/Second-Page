@@ -1,0 +1,21 @@
+header {
+    background: lightskyblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+div {
+color: white;
+justify-content: flex-end;
+align-items: center;
+}
+h2 {
+display: flex;
+justify-content: right;
+}
+a {
+    color: white;
+    justify-content: center;
+    margin: 0.5em;
+}
